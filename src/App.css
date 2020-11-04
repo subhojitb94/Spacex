@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+.main-container{
+  padding-top:1px;
+  width:98%;
+  margin:1%;
+  background-color: silver;
+  min-height:95vh
+}
+
+.title{
+  padding-left:15px
+}
+
+.filter-container{
+  background-color: white;
+  /* max-height:650px; */
+  border-radius:10px;
+  padding-bottom:10px;
+}
+
+.content-container{
+  padding:2%
+}
+
+.launch-filter-title{
+  text-align: center;
+  border-bottom: 1px solid silver ;
+}
+
+.tags{
+  background-color:#33cfa2;
+  border-radius:10px;
+  padding:4px;
+  cursor:pointer;
+}
+
+.active{
+  background-color: #045c43;
+}
+
+.successful-launch-filter-sec{
+  padding-top:15px
+}
+
+.desc-titles{
+  font-weight: 900;
+}
